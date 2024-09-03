@@ -55,6 +55,7 @@ The project is built using **HTML**, **CSS**, and **JavaScript** and features a 
 - [Angela Yu](https://github.com/angelabauer) (for Idea)
 - [Ai31024](https://github.com/Ai31024) (for effort)
 - [ChatGPT-4o](https://chatgpt.com) (for commenting and documentaion)
+
 This project was made with ❤️ in London and continued with ❤️ in Ranchi.
 
 ---
