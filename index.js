@@ -10,7 +10,6 @@ let baDumTss = new Audio("./sounds/ba-dum-tss-2s.mp3");
 
 // Selecting the drum logo element by its ID to add an audio effect when clicked
 var drumLogo = document.querySelector("#title");
-
 // Adding a click event listener to the drum logo, which will play a sound (baDumTss) when clicked
 drumLogo.addEventListener("click", function () {
   baDumTss.play();
@@ -18,7 +17,6 @@ drumLogo.addEventListener("click", function () {
 
 // Selecting all elements with the class "drum" to check for clicks on drum buttons
 var numberOfDrumKeys = document.querySelectorAll(".drum");
-
 // Looping through all drum buttons to add click event listeners to each one
 for (i = 0; i < numberOfDrumKeys.length; i++) {
   document.querySelectorAll(".drum")[i].addEventListener("click", function () {
